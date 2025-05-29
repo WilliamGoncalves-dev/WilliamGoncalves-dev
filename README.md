@@ -166,3 +166,64 @@
 -----
 
 <img width="175" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=WilliamGoncalves-dev"/>
+
+<div>
+<details>
+<summary><img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/linkedin2.gif?raw=true"/> LinkedIn Recommendations (6/50)</summary>
+<div>
+<table>
+<tr>
+ <td align="center" colspan="1"></td>
+</tr> 
+<tr>
+<td>
+<img align="center" src="https://joaopauloaramuni.github.io/image/R1.png?raw=true" alt="R1"/>
+</td>
+</tr>
+<tr>
+<td>
+<img align="center" src="https://joaopauloaramuni.github.io/image/R2.png?raw=true" alt="R2"/>
+</td>
+</tr>
+<tr>
+<td>
+<img align="center" src="https://joaopauloaramuni.github.io/image/R3.png?raw=true" alt="R3"/>
+</td>
+</tr>
+<tr>
+<td>
+<img align="center" src="https://joaopauloaramuni.github.io/image/R4.png?raw=true" alt="R4"/>
+</td>
+</tr>
+<tr>
+<td>
+<img align="center" src="https://joaopauloaramuni.github.io/image/R5.png?raw=true" alt="R5"/>
+</td>
+</tr>
+<tr>
+<td>
+<img align="center" src="https://joaopauloaramuni.github.io/image/R6.png?raw=true" alt="R6"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="1"></td>
+</tr> 
+</table>
+</div>
+</details>
+</div>
+
+<div align="center">
+
+```text
+ ██████╗   ██████╗   ███╗   ██╗  ██████╗   █████╗    ██╗      ██╗      ██╗   ██╗  ██╗      ███╗   ██╗  ███████╗  ██████╗   ██████╗  
+██╔════╝  ██╔═══██╗  ████╗  ██║ ██╔═══██╗ ██╔══██╗   ██║      ██║      ██║   ██║  ██║      ████╗  ██║  ██╔════╝ ██╔═══██╗ ██╔═══██╗ 
+██║  ███╗ ██║   ██║  ██╔██╗ ██║ ██║   ██║ ███████║   ██║      ██║      ██║   ██║  ██║      ██╔██╗ ██║  █████╗   ██║   ██║ ██║   ██║ 
+██║   ██║ ██║   ██║  ██║╚██╗██║ ██║   ██║ ██╔══██║   ██║      ██║      ╚██╗ ██╔╝  ██║      ██║╚██╗██║  ██╔══╝   ██║   ██║ ██║   ██║ 
+╚██████╔╝ ╚██████╔╝  ██║ ╚████║ ╚██████╔╝ ██║  ██║   ███████╗███████╗   ╚████╔╝   ███████╗ ██║ ╚████║  ███████╗ ╚██████╔╝ ╚██████╔╝ 
+ ╚═════╝   ╚═════╝   ╚═╝  ╚═══╝  ╚═════╝  ╚═╝  ╚═╝   ╚══════╝╚══════╝    ╚═══╝    ╚══════╝ ╚═╝  ╚═══╝  ╚══════╝  ╚═════╝   ╚═════╝  
+
+
+```                                        
+
+</div>
