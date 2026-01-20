@@ -10,7 +10,9 @@
 - Lógica de programação
 
 ## ⏱️ Tempo de prática (WakaTime)
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime@WilliamGoncalves=SEU_USERNAME&layout=compact)
+
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=WilliamGoncalves&layout=compact)
+
 
 📫 Contato: williamdouglas2110@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/william-gonçalves-839b91260
