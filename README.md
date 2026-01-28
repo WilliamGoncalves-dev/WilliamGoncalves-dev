@@ -8,6 +8,7 @@
 - Java
 - Git & GitHub
 - Lógica de programação
+- Excel VBA & Macros
 
 ## ⏱️ Tempo de prática (WakaTime)
 
