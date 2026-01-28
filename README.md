@@ -4,8 +4,8 @@
 💻 Em aprendizado contínuo em programação e dados  
 
 ## Tecnologias em estudo
-- Python
 - Java
+- Python
 - Git & GitHub
 - Lógica de programação
 - Excel VBA & Macros
