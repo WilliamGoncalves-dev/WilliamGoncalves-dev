@@ -38,4 +38,4 @@ SQL modeling, queries and database management practices.
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:williamdouglas2110@gmail.com)
 
-[![Let's connect](https://img.shields.io/badge/Let's%20connect-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendar.app.google/CjMoP5UxA8TuPvTr8)
+[![Book a chat]](https://img.shields.io/badge/Let's%20connect-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendar.app.google/CjMoP5UxA8TuPvTr8)
