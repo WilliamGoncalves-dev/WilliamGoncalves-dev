@@ -1,19 +1,45 @@
 # William Gonçalves
 
 🎓 Estudante de Sistemas de Informação  
-💻 Em aprendizado contínuo em programação e dados  
+💻 Desenvolvendo soluções com Python, SQL, Power BI e Java 
+💼 Atualmente atuo em uma instituição financeira e desenvolvo projetos voltados para análise de dados, decisões estratégicas, automação e desenvolvimento de aplicações voltadas para negócio.
 
-## Tecnologias em estudo
-- Java
-- Python
-- Git & GitHub
-- Lógica de programação
-- Excel VBA & Macros
+## Tecnologias
+
+Java
+Python
+SQL (MySQL)
+Power BI
+Git & GitHub
+Excel VBA
+
+## Estudando atualmente
+
+Estatística para Ciência de Dados
+Estruturas de Dados
+Engenharia de Software
+
+## Projetos
+
+📊 Dashboard Power BI
+Análises e visualizações de dados.
+
+🐍 Automações em Python
+Scripts para automação de processos.
+
+☕ Estudos em Java
+Exercícios e projetos da faculdade.
+
+🗄️ Banco de Dados
+Modelagem e consultas SQL.
 
 ## ⏱️ Tempo de prática (WakaTime)
 
 ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=WilliamGoncalves&layout=compact)
 
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-William%20Gonçalves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-gonçalves-839b91260)
 
 📫 Contato: williamdouglas2110@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/william-gonçalves-839b91260
