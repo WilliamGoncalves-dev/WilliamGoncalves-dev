@@ -40,6 +40,7 @@ Modelagem e consultas SQL.
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-William%20Gonçalves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-gonçalves-839b91260)
+[![Gmail](https://img.shields.io/badge/Gmail-williamdouglas2110%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williamdouglas2110@gmail.com)
 
 📫 Contato: williamdouglas2110@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/william-gonçalves-839b91260
