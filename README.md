@@ -37,3 +37,5 @@ SQL modeling, queries and database management practices.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/william-gonçalves-839b91260)
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:williamdouglas2110@gmail.com)
+
+[![Schedule a meeting](https://img.shields.io/badge/Schedule%20a%20meeting-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendar.app.google/CjMoP5UxA8TuPvTr8)
