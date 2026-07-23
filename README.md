@@ -1,43 +1,39 @@
 # William Gonçalves
 
-🎓 Estudante de Sistemas de Informação  
-💻 Desenvolvendo soluções com Python, SQL, Power BI e Java 
-💼 Atualmente atuo em uma instituição financeira e desenvolvo projetos voltados para análise de dados, decisões estratégicas, automação e desenvolvimento de aplicações voltadas para negócio.
+🎓 Information Systems student
+💻 Developing solutions with Python, SQL, Power BI and Java
+💼 Currently working in the financial sector, developing projects focused on data analysis, strategic decision-making, process automation and business-oriented application development.
 
-## Tecnologias
+## 🛠️ Technologies
 
-Java
-Python
-SQL (MySQL)
-Power BI
-Git & GitHub
-Excel VBA
+* Java
+* Python
+* SQL (MySQL)
+* Power BI
+* Git & GitHub
+* Excel VBA & Macros
+* Power Query
 
-## Estudando atualmente
+## 🚀 Projects
 
-Estatística para Ciência de Dados
-Estruturas de Dados
-Engenharia de Software
+📊 **Power BI Dashboards**
+Data analysis and visualization projects focused on transforming data into business insights.
 
-## Projetos
+🐍 **Python Automations**
+Scripts and automation solutions developed to optimize repetitive processes and improve productivity.
 
-📊 Dashboard Power BI
-Análises e visualizações de dados.
+☕ **Java Projects**
+Object-oriented programming exercises and academic projects focused on backend development.
 
-🐍 Automações em Python
-Scripts para automação de processos.
+🗄️ **Database Projects**
+SQL modeling, queries and database management practices.
 
-☕ Estudos em Java
-Exercícios e projetos da faculdade.
+## ⏱️ Coding Activity (WakaTime)
 
-🗄️ Banco de Dados
-Modelagem e consultas SQL.
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=WilliamGoncalves\&layout=compact)
 
-## ⏱️ Tempo de prática (WakaTime)
+## 📫 Contact
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=WilliamGoncalves&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/william-gonçalves-839b91260)
 
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-gonçalves-839b91260)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williamdouglas2110@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:williamdouglas2110@gmail.com)
